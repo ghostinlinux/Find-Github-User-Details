@@ -69,7 +69,7 @@ function getGithubDetails() {
           }
         });
       } else {
-        console.log("Wrong Username");
+        alert("Wrong Username");
       }
     });
 
