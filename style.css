@@ -1,0 +1,30 @@
+#image {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+#picdiv {
+  display: flex;
+}
+#picdiv span {
+  margin-top: 50px;
+  padding-left: 50px;
+}
+
+#divrepos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.reposbox {
+  background-color: bisque;
+  margin: 10px;
+  height: 20px;
+}
+
+
+#btn:hover{
+    background-color: rgb(225, 225, 225);
+    border-color: antiquewhite;
+    cursor: pointer;
+}
